@@ -1,0 +1,15 @@
+     
+
+      CITY HOUSE REGISTRATION SYSTEM
+
+     Section B
+
+     Name                             Id No
+ 1 Ebrahim Mohammed                  CIR/334/11
+ 2 Mahlite Teshome                   CIR/366/11
+ 3 Hana Abebaw                       CIR/250/11
+ 4 Asia Hussen                       CIR/314/11
+ 5 Belay Workineh                    CIR/319/11
+ 6 Kuma  Kebede                      CIR/358/11
+ 7 Daniel Bido                       CIR/326/11
+  
